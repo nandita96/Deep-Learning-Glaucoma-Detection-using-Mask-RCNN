@@ -4,6 +4,17 @@
 Glaucoma is a prevalent ocular disease, which leads to irreversible loss in vision because the optic nerves, that are connected directly to the brain gets damaged. 
 Compared to the healthy fundus image, enlargement of an optic cup could be ob-served by covering a portion of the optic disc in the fundus image of glaucoma.
 
+### 1 Flow Diagram 
+<img src="Images/Flow_diagram.PNG" width="500" height="300">
+
+### 2. Glacuma Detection 
+<img src="Images/detecte_cup_disc.PNG", width="500" height="500">
+
+### 3. Region of Interaction 
+<img src="Images/ROI_optic_cupanddisc.PNG" width="500" height="300">
+
+
+
 Ophthalmologists believe that it can be treated to some extent if early detection is possible. Several studies have been done so far in this eld. However, the detection
 and segmentation of the optic cup and disc is a challenging task. Therefore, in this paper, a dierent deep learning approach is adopted to detect and segment the
 prominent location of optic disc and cup from the fundus image using Mask RCNN.
