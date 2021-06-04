@@ -8,7 +8,7 @@ Compared to the healthy fundus image, enlargement of an optic cup could be ob-se
 <img src="Images/Flow_diagram.PNG" width="500" height="300">
 
 ### 2. Glacuma Detection 
-<img src="Images/detecte_cup_disc.PNG", width="500" height="500">
+<img src="Images/detecte_cup_disc.PNG" width="500" height="500">
 
 ### 3. Region of Interaction 
 <img src="Images/ROI_optic_cupanddisc.PNG" width="500" height="300">
