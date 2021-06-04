@@ -5,13 +5,13 @@ Glaucoma is a prevalent ocular disease, which leads to irreversible loss in visi
 Compared to the healthy fundus image, enlargement of an optic cup could be ob-served by covering a portion of the optic disc in the fundus image of glaucoma.
 
 ### 1 Flow Diagram 
-<img src="Images/Flow_diagram.PNG" width="500" height="300">
+<img src="Images/Flow_diagram.PNG" width="900" height="300">
 
 ### 2. Glacuma Detection 
-<img src="Images/detecte_cup_disc.PNG" width="500" height="500">
+<img src="Images/detecte_cup_disc.PNG" width="900" height="500">
 
 ### 3. Region of Interaction 
-<img src="Images/ROI_optic_cupanddisc.PNG" width="500" height="300">
+<img src="Images/ROI_optic_cupanddisc.PNG" width="900" height="300">
 
 
 
