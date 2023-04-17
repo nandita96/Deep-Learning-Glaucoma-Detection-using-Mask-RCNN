@@ -1,6 +1,4 @@
 # Deep-Learning-Glaucoma-Detection-using-Mask-RCNN
-
-
 Glaucoma is a prevalent ocular disease, which leads to irreversible loss in vision because the optic nerves, that are connected directly to the brain gets damaged. 
 Compared to the healthy fundus image, enlargement of an optic cup could be ob-served by covering a portion of the optic disc in the fundus image of glaucoma.
 
